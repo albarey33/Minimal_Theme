@@ -12,7 +12,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.md).
+[Link to another page](https://albarey33.github.io/sample_page)  #(./another-page.md).
 
 [Project 1: Example Data Munging](./another-page.html).
 
