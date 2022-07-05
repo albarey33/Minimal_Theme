@@ -14,7 +14,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](https://albarey33.github.io/sample_page)  #(./another-page.md).
 
-[Project 1: Example Data Munging](./sample_page).
+[Project 1: Example Data Munging](./sample_page.md).
 
 [Project 1: Example Data Wrangling](./another-page.html).
 
